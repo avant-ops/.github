@@ -1,12 +1,3 @@
-## Hi there 👋
+# avant-ops
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+With focus always on product development and delivery it is easy to neglect operations and infrastructure.Technology today requires security in depth as attackers utilize a 360 degree battlefield. With technology platforms changing daily it is difficult to choose and maintain the correct set of tools. An out of the box solution is needed to remove these concerns and __Avant Ops__ provides these solutions. We lower your barrier to successful infrastructure operations by letting you concentrate on your product and provide the experts you needs to deliver success.
